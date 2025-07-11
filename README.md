@@ -2,7 +2,7 @@
  DRIVE LINK TO ACCESS OTHER FILE -- https://drive.google.com/drive/folders/1lq5AoDNSy-k4Ni9FbNSKba9xmQ59v_Kp?usp=sharing
 A fully offline AI assistant that answers questions from PDFs using a local RAG pipeline with Mistral 7B, LangChain, FAISS, and Streamlit — no cloud, no API, privacy-first.
 
-# 🧠 Local RAG Assistant – Offline PDF Question Answering
+# 🧠 Local RAG Assistant # 
 
 🚀 A fully offline, privacy-safe AI assistant that answers questions from your PDFs using a Retrieval-Augmented Generation (RAG) pipeline with **Mistral 7B**, **FAISS**, and a clean **Streamlit UI**.
 
