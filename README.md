@@ -59,12 +59,9 @@ Built to overcome the restrictions of cloud tools like AWS and OpenAI (cost, API
 ```bash
 git clone https://github.com/Sjayavarma/local-rag-assistant.git
 cd local-rag-assistant
-2. Install Python dependencies
-bash
-Copy
-Edit
+#############2. Install Python dependencies
 pip install -r requirements.txt
-3. Download the Mistral model
+############3. Download the Mistral model
 Download .gguf file from Hugging Face:
 👉 https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
 
@@ -72,25 +69,16 @@ Recommended file: mistral-7b-instruct-v0.1.Q4_K_M.gguf
 
 Place it inside the models/ folder:
 
-bash
-Copy
-Edit
 mkdir models
-# Place your GGUF file here
+######### Place your GGUF file here
 4. Build llama.cpp (Windows)
-bash
-Copy
-Edit
 git clone https://github.com/ggerganov/llama.cpp
 cd llama.cpp
 cmake -B build -A x64 -DLLAMA_CURL=ON .
 cmake --build build --config Release
 Or use a precompiled binary if available.
 
-▶️ Run the App
-bash
-Copy
-Edit
+#################▶️ Run the App
 streamlit run app.py
 Then open your browser at: http://localhost:8501
 
@@ -98,13 +86,13 @@ Then open your browser at: http://localhost:8501
 Upload PDF	Chat With Docs
 
 ✨ What I Learned
-How to orchestrate a RAG pipeline locally
+ ------ ( How to orchestrate a RAG pipeline locally
 
 Working with embeddings and FAISS indexing
 
 Building Streamlit UIs with authentication and chat flow
 
-Running large models locally via llama.cpp
+Running large models locally via llama.cpp ) 
 
 🛡️ License
 This project is licensed under the MIT License.
