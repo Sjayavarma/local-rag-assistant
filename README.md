@@ -117,13 +117,6 @@ Feel free to fork, submit PRs, or raise issues. Collaboration is welcome!
 Built with ❤️ by Jayavarma S
 📧 Contact: sjayavarmas@gmail.com
 
- # UI INTERFACE :
-![WhatsApp Image 2025-07-11 at 23 10 50_dca00cee](https://github.com/user-attachments/assets/16630d6c-5bfd-45be-8efb-7d8e8ba6e63e)
 
-
-![WhatsApp Image 2025-07-11 at 23 10 04_f0ea4301](https://github.com/user-attachments/assets/5408bccf-c7d6-45f0-80b2-a3aadd1212db)
-
-
-![WhatsApp Image 2025-07-11 at 23 11 09_fd8a665f](https://github.com/user-attachments/assets/cedf4a2b-ed36-4c54-b061-af16ca6bd02d)
 
 
